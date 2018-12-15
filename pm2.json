@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "sn_cms",
+    "script": "production.js",
+    "cwd": "E:\Nodejs\node_blog\thinkjs\sn_cms",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
